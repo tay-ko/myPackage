@@ -1,5 +1,5 @@
 {
-    "name": "vendor/mypackage",
+    "name": "tay-ko/myPackage",
     "description": "My first Composer project",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "mypackage": "src/"
+            "myPackage": "src/"
         }
     }
 }
